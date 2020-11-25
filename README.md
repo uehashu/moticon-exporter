@@ -10,7 +10,7 @@ Moticonによって生成されたgoファイルから、センサデータをcs
 * h5py
 * numpy
 
-`pip`でインストールしておくとよい。
+`pip3 install HOGE -t site_packages`でインストールしておくとよい。
 
 
 ## 使い方（コマンドラインから）
